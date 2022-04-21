@@ -30,7 +30,7 @@ To contribute check for issues in [the main git repo](https://github.com/Quicksi
 
 # Feedback
 
--   File a bug in [GitHub Issues](https://github.com/QuicksilverYT/DcWebserver/issues/new/choose)
+-   File a bug in [GitHub Issues](https://github.com/QuicksilverYT/DcWebserver-issues/issues/new/choose)
 -   [Contact us on discord](https://discord.gg/TaynAW9WXt) with other feedback
 
 # License
